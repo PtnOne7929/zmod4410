@@ -1,10 +1,16 @@
 # ZMOD4410
 
+[English](./USAGE_GUIDE_EN.md) | [Tiếng Việt](./HUONG_DAN_SU_DUNG.md)
+
 ## 简介
 
 zmod4410 软件包使用了空气质量传感器 `zmod4410` 的基本功能。
 
 传感器 `zmod4410` 的输入电压为 `1.7V ~ 3.6V` 范围内，[zmod4410 详细功能参数介绍](https://www2.renesas.cn/cn/zh/products/sensor-products/environmental-sensors/digital-gas-sensors/zmod4410-indoor-air-quality-sensor-platform)
+
+📖 **详细使用指南**:
+- [English Usage Guide](./USAGE_GUIDE_EN.md) - Complete guide in English
+- [Hướng Dẫn Tiếng Việt](./HUONG_DAN_SU_DUNG.md) - Hướng dẫn chi tiết bằng tiếng Việt
 
 ## 支持情况
 
